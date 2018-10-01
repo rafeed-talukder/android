@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ButtonOnClick2nd</string>
+    <string name="b1name">Login</string>
+    <string name="b2name">Logout</string>
+</resources>

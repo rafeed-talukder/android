@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ToastShow(Monitor)</string>
+    <string name="app1">Login</string>
+    <string name="app2">Logout</string>
+</resources>
